@@ -1,2 +1,3 @@
 Initial commit.
 Update with TortoiseGit.
+Some changes to TortoiseGit clone.
