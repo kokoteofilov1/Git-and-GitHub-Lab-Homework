@@ -1,3 +1,6 @@
 Initial commit.
 Update with TortoiseGit.
 Some changes to TortoiseGit clone.
+Update with GitBash.
+Update with TortoiseGit.
+
